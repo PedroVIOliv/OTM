@@ -1,0 +1,26 @@
+{   "drone_weight": 10,
+    "max_capacity": 45000,
+    "battery_capacity": 2000,
+    "pontos": [
+    {
+      "x": 70,
+      "y": 80,
+      "peso": 0
+    },
+    {
+      "x": 50,
+      "y": 80,
+      "peso": 10
+    },
+    {
+      "x": 30,
+      "y": 80,
+      "peso": 10
+    },
+    {
+      "x": 70,
+      "y": 80,
+      "peso": 0
+    }
+  ]
+  }
